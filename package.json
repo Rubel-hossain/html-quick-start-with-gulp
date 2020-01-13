@@ -1,18 +1,18 @@
 {
-  "name": "gmart",
+  "name": "shokti",
   "version": "1.0.0",
-  "description": "gmart html template using gulp 4 and gulp sass",
+  "description": "shokti html template using gulp 4 and gulp sass",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5"
   },
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "themeaffait",
+  "author": "smartit-source",
   "license": "ISC"
 }
