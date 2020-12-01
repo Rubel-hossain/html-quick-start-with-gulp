@@ -1,14 +1,14 @@
 {
-  "name": "test",
+  "name": "project_name",
   "version": "1.0.0",
-  "description": "test html template using gulp 4 and gulp sass",
+  "description": "project_name html template using gulp 4 and gulp sass",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp-sass": "^4.1.0",
-    "gulp-sourcemaps": "^2.6.5"
+    "gulp-sourcemaps": "^3.0.0"
   },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
