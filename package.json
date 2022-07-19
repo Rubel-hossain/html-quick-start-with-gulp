@@ -4,11 +4,12 @@
   "description": "project_name html template using gulp 4 and gulp sass",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp-sourcemaps": "^3.0.0"
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.53.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.1.0"
+    "gulp-sass": "^5.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
